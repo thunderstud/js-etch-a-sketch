@@ -1,1 +1,1 @@
-# jsetchasketch
+# js-etch-a-sketch
