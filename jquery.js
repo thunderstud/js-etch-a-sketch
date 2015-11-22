@@ -5,7 +5,7 @@ $(document).ready(function() {
 				unit.appendTo('#container');
 		}
 	}
-	$('unit').hover(
+	$('.unit').hover(
 		function() {
 			$(this).css({"background-color":"red"});
 		}
